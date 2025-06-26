@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Christopher Fagg
+	email = christopherfdev@gmail.com
+  # Please adapt and uncomment the following lines:
+#	name = 
+#	email = opswole@archlinux.(none)
+[core]
+	editor = nvim
