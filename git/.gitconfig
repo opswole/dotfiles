@@ -1,9 +1,14 @@
-# This is Git's per-user configuration file.
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[pull]
+	rebase = true
+[init]
+	defaultBranch = master
 [user]
 	name = Christopher Fagg
 	email = christopherfdev@gmail.com
-  # Please adapt and uncomment the following lines:
-#	name = 
-#	email = opswole@archlinux.(none)
 [core]
-	editor = nvim
+	excludesfile = /home/opswole/.gitignore

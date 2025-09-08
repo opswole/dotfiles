@@ -42,4 +42,27 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
-theme = SynthwaveAlpha
+# Ghostty Ash Theme
+background = ffffff
+foreground = 0a0a0a
+
+cursor-color = 0a0a0a
+cursor-text = ffffff
+
+palette = 0=c0c0c0
+palette = 1=0a0a0a
+palette = 2=0a0a0a
+palette = 3=0a0a0a
+palette = 4=0a0a0a
+palette = 5=0a0a0a
+palette = 6=0a0a0a
+palette = 7=0a0a0a
+palette = 8=d0d0d0
+palette = 9=0a0a0a
+palette = 10=0a0a0a
+palette = 11=0a0a0a
+palette = 12=0a0a0a
+palette = 13=0a0a0a
+palette = 14=0a0a0a
+palette = 15=0a0a0a
+
